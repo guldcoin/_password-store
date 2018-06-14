@@ -1,0 +1,35 @@
+[submodule "isysd"]
+	path = isysd
+	branch = isysd
+	url = git@bitbucket.org:isysd/.password-store-isysd.git
+[submodule "zimmi"]
+	path = zimmi
+	branch = zimmi
+	url = git@bitbucket.org:zimmiglobal/.password-store-zimmi.git
+[submodule "tigoctm"]
+	path = tigoctm
+	branch = tigoctm
+	url = git@bitbucket.org:tigoctm/.password-store-tigoctm.git
+[submodule "cz"]
+	path = cz
+	branch = cz
+	url = git@bitbucket.org:cindy-zimmerman/.password-store-cz.git
+[submodule "pokerface"]
+	path = pokerface
+	branch = pokerface
+	url = git@bitbucket.org:ggpokerface/.password-store-pokerface.git
+[submodule "guld"]
+	path = guld
+	branch = guld
+	url = git@bitbucket.org:guld/.password-store-guld.git
+[submodule "mizim"]
+	path = mizim
+	branch = mizim
+	url = git@bitbucket.org:mizim/.password-store-mizim.git
+[submodule "derekshalom"]
+	path = derekshalom
+	branch = derekshalom
+	url = git@bitbucket.org:derekshalom/.password-store-derekshalom.git
+[submodule "ptyglass"]
+	path = ptyglass
+	url = git@bitbucket.org:ptyglass/.password-store-ptyglass.git
