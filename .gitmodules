@@ -33,3 +33,6 @@
 [submodule "ptyglass"]
 	path = ptyglass
 	url = git@bitbucket.org:ptyglass/.password-store-ptyglass.git
+[submodule "fdreyfus"]
+	path = fdreyfus
+	url = git@bitbucket.org:fdreyfus/_password-store-fdreyfus.git
